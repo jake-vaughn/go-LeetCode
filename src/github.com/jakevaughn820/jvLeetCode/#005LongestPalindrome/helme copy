@@ -1,0 +1,43 @@
+word = input
+reverseWord = ReadBkwds(word)
+newPalindrome = ""
+palindromes_list[]
+
+if word == reverseWord then
+   return word
+else
+	for palindrome_length = word.length - 1  down to 1
+		for start_char = 0 to word.length - palindrome_length
+			newPalindrome = word.substring(start_char, palindrome_length)
+			if newPalindrome == ReadBkwds() then
+				if newPalindrome <> words in palindromes_list[x] then
+					add newPalindrome to palindromes_list
+				newPalindrome == ""
+
+returnn palindromes_list
+
+Sub ReadBkwds(newString)
+	wordBkwds = ""
+	
+	for x = newString.length - 1 down to 0
+		wordBkwds = wordBkwds + newString.char(x)
+0	return workdBkwds
+
+
+
+abab
+
+check abag
+check aba
+check bab
+check ab
+check ba
+check ab
+check a
+check b
+check a
+check b
+
+
+civilwartestingwhetherthatnaptionoranynartionsoconceivedandsodedicatedcanlongendureWeareqmetonagreatbattlefiemldoftzhatwarWehavecometodedicpateaportionofthatfieldasafinalrestingplaceforthosewhoheregavetheirlivesthatthatnationmightliveItisaltogetherfangandproperthatweshoulddothisButinalargersensewecannotdedicatewecannotconsecratewecannothallowthisgroundThebravelmenlivinganddeadwhostruggledherehaveconsecrateditfaraboveourpoorponwertoaddordetractTgheworldadswfilllittlenotlenorlongrememberwhatwesayherebutitcanneverforgetwhattheydidhereItisforusthelivingrathertobededicatedheretotheulnfinishedworkwhichtheywhofoughtherehavethusfarsonoblyadvancedItisratherforustobeherededicatedtothegreattdafskremainingbeforeusthatfromthesehonoreddeadwetakeincreaseddevotiontothatcauseforwhichtheygavethelastpfullmeasureofdevotionthatweherehighlyresolvethatthesedeadshallnothavediedinvainthatthisnationunsderGodshallhaveanewbirthoffreedomandthatgovernmentofthepeoplebythepeopleforthepeopleshallnotperishfromtheearth
+ranynar
