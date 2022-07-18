@@ -9,7 +9,7 @@
       "type": "go",
       "request": "launch",
       "mode": "auto",
-      "program": "src/github.com/jakevaughn820/go-LeetCode/#010RegularExpressionMatching/regularExpressionMatching.go"
+      "program": "src/github.com/jakevaughn820/go-LeetCode/#011ContainerWithMostWater/containerWithMostWater.go"
     }
   ]
 }
