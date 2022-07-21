@@ -27,6 +27,7 @@ func threeSum(nums []int) [][]int {
 		}
 		l, r := i+1, len(nums)-1
 		for l < r {
+			//Skips checking nums[l] if it is the same as last
 			if nums[l] == nums[l-1] && l-1 != i {
 				l++
 				continue
